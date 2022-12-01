@@ -13,3 +13,5 @@ About the User
 - ⚡ Fun fact: I've read fifty books so far this year!
 
 
+- Find useful information on openpreserve [here](https://github.com/openpreserve/jhove)
+- To learn more about Metamapper [click this link](https://github.com/getmetamapper/metamapper)
